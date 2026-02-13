@@ -1,7 +1,7 @@
 ## Olá! Eu sou Caleb Miguel 👋
 - 🎓 Possuo certificados em: Fundamentos de Programação em JavaScript, Fundamentos de Programação em JavaScript 2, Animações em JavaScript e Animações em JavaScript 2
 - 🌱 Estou aprendendo C#
-- 📫 Como entrar em contato comigo: +55 73 9953-2799 ou CalebMiguel28@outlook.com
+- 📫 Número de contato: +55 73 9953-2799
 - 😄 Pronomes: Ele/Dele
 
 
@@ -12,6 +12,8 @@
   <img align="center" alt="Caleb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caleb-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+##
 
 <div>
   <a href = "mailto:CalebMiguel28@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
